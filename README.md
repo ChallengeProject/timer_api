@@ -1,5 +1,5 @@
 # API Specification
-- end-point : **https://github.com/ChallengeProject/timer_api**
+- end-point : **https://raw.githubusercontent.com/ChallengeProject/timer_api/master**
 - api-format: **JSON**
 
 ## App
