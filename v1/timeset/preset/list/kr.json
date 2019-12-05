@@ -1,0 +1,39 @@
+[
+    {
+        "title": "물마시기",
+        "isRepeat": true,
+        "timers": [
+            {
+                "comment": "물 마시기!",
+                "alarm": 0,
+                "end": 900
+            }
+        ]
+    },
+    {
+        "title": "스트레칭 30초",
+        "isRepeat": true,
+        "timers": [
+            {
+                "comment": "준비",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "(좌) 스트레칭",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "준비",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "(우) 스트레칭",
+                "alarm": 0,
+                "end": 30
+            }
+        ]
+    }
+]
