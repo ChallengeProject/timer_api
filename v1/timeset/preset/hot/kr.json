@@ -1,38 +1,159 @@
 [
     {
-        "title": "물마시기",
-        "isRepeat": true,
+        "title": "수능 (제2외국어 미포함)",
+        "isRepeat": false,
         "timers": [
             {
-                "comment": "물 마시기!",
+                "comment": "국어 영역",
                 "alarm": 0,
-                "end": 900
+                "end": 4800
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "수학 영역",
+                "alarm": 0,
+                "end": 6000
+            },
+            {
+                "comment": "점심",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "영어 영역",
+                "alarm": 0,
+                "end": 4200
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "한국사 영역",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "다음 시험 준비",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "첫 번째 탐구 영역",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "다음 시험 준비",
+                "alarm": 0,
+                "end": 120
+            },
+            {
+                "comment": "두 번째 탐구 영역",
+                "alarm": 0,
+                "end": 1800
             }
         ]
     },
     {
-        "title": "스트레칭 30초",
-        "isRepeat": true,
+        "title": "토익",
+        "isRepeat": false,
         "timers": [
             {
-                "comment": "준비",
+                "comment": "LC",
                 "alarm": 0,
-                "end": 10
+                "end": 2700
             },
             {
-                "comment": "(좌) 스트레칭",
+                "comment": "RC",
                 "alarm": 0,
-                "end": 30
+                "end": 4500
+            }
+        ]
+    },
+    {
+        "title": "오픽",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "Q1",
+                "alarm": 0,
+                "end": 160
             },
             {
-                "comment": "준비",
+                "comment": "Q2",
                 "alarm": 0,
-                "end": 10
+                "end": 160
             },
             {
-                "comment": "(우) 스트레칭",
+                "comment": "Q3",
                 "alarm": 0,
-                "end": 30
+                "end": 160
+            },
+            {
+                "comment": "Q4",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q5",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q6",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q7",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q8",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q9",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q10",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q11",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q12",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q13",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q14",
+                "alarm": 0,
+                "end": 160
+            },
+            {
+                "comment": "Q15",
+                "alarm": 0,
+                "end": 160
             }
         ]
     }
