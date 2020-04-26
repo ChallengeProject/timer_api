@@ -442,5 +442,377 @@
                 "end": 1200
             }
         ]
+    },
+    {
+        "title": "9급 공무원 시험",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "2번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "3번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "4번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "5번 과목",
+                "alarm": 0,
+                "end": 1200
+            }
+        ]
+    },
+    {
+        "title": "7급 공무원 시험",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "2번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "3번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "4번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "5번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "6번 과목",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "7번 과목",
+                "alarm": 0,
+                "end": 1200
+            }
+        ]
+    },
+    {
+        "title": "5급 공무원 시험",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1교시 : 헌법",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "1교시 : 언어논리영역",
+                "alarm": 0,
+                "end": 5400
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2교시 : 자료해석영역",
+                "alarm": 0,
+                "end": 5400
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "3교시 : 상황판단영역",
+                "alarm": 0,
+                "end": 5400
+            }
+        ]
+    },
+    {
+        "title": "유·초등교사 임용 시험",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1교시 : 교직논술",
+                "alarm": 0,
+                "end": 3600
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2교시 : 교육과정A",
+                "alarm": 0,
+                "end": 4200
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "3교시 : 교육과정B",
+                "alarm": 0,
+                "end": 4200
+            }
+        ]
+    },
+    {
+        "title": "중등교사 임용 시험",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1교시 : 교육학",
+                "alarm": 0,
+                "end": 3600
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2교시 : 전공A",
+                "alarm": 0,
+                "end": 5400
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2교시 : 전공B",
+                "alarm": 0,
+                "end": 5400
+            }
+        ]
+    },
+    {
+        "title": "한국사 시험(중·고급)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "한국사 시험",
+                "alarm": 0,
+                "end": 4800
+            }
+        ]
+    },
+    {
+        "title": "한국사 시험(초급)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "한국사 시험",
+                "alarm": 0,
+                "end": 3600
+            }
+        ]
+    },
+    {
+        "title": "GSAT",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "언어논리",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "수리논리",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "추리",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "시각적사고",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "상식",
+                "alarm": 0,
+                "end": 1500
+            }
+        ]
+    },
+    {
+        "title": "L-TAB",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "언어이해",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "문제해결",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "자료해석",
+                "alarm": 0,
+                "end": 2100
+            },
+            {
+                "comment": "언어논리/수리공간",
+                "alarm": 0,
+                "end": 2100
+            },
+            {
+                "comment": "인성검사",
+                "alarm": 0,
+                "end": 2400
+            }
+        ]
+    },
+    {
+        "title": "HMAT",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "언어이해",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "논리판단",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "자료해석",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "공간지각",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 900
+            },
+            {
+                "comment": "인성검사 l",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "인성검사 ll",
+                "alarm": 0,
+                "end": 2700
+            }
+        ]
+    },
+    {
+        "title": "CJT / CJAT",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "언어논리",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "언어이해",
+                "alarm": 0,
+                "end": 900
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "수리",
+                "alarm": 0,
+                "end": 2100
+            },
+            {
+                "comment": "도식이해",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 900
+            },
+            {
+                "comment": "인성검사",
+                "alarm": 0,
+                "end": 2700
+            }
+        ]
+    },
+    {
+        "title": "SKCT",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "상황판단",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "수리",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "언어",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "직무",
+                "alarm": 0,
+                "end": 1600
+            },
+            {
+                "comment": "인성",
+                "alarm": 0,
+                "end": 2700
+            }
+        ]
     }
 ]
