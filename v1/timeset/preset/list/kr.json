@@ -636,7 +636,7 @@
         ]
     },
     {
-        "title": "GSAT",
+        "title": "삼성 인적성 : GSAT",
         "isRepeat": false,
         "timers": [
             {
@@ -658,16 +658,11 @@
                 "comment": "시각적사고",
                 "alarm": 0,
                 "end": 1800
-            },
-            {
-                "comment": "상식",
-                "alarm": 0,
-                "end": 1500
             }
         ]
     },
     {
-        "title": "L-TAB",
+        "title": "롯데 인적성 : L-TAB",
         "isRepeat": false,
         "timers": [
             {
@@ -681,11 +676,6 @@
                 "end": 1800
             },
             {
-                "comment": "휴식",
-                "alarm": 0,
-                "end": 1200
-            },
-            {
                 "comment": "자료해석",
                 "alarm": 0,
                 "end": 2100
@@ -696,35 +686,40 @@
                 "end": 2100
             },
             {
-                "comment": "인성검사",
+                "comment": "휴식",
                 "alarm": 0,
-                "end": 2400
+                "end": 1200
+            },
+            {
+                "comment": "조직적합진단",
+                "alarm": 0,
+                "end": 1800
             }
         ]
     },
     {
-        "title": "HMAT",
+        "title": "현대 인적성 : HMAT",
         "isRepeat": false,
         "timers": [
             {
                 "comment": "언어이해",
                 "alarm": 0,
-                "end": 1500
+                "end": 1200
             },
             {
                 "comment": "논리판단",
                 "alarm": 0,
-                "end": 1500
+                "end": 900
             },
             {
                 "comment": "자료해석",
                 "alarm": 0,
-                "end": 1800
+                "end": 1200
             },
             {
                 "comment": "공간지각",
                 "alarm": 0,
-                "end": 1500
+                "end": 600
             },
             {
                 "comment": "휴식",
@@ -744,7 +739,7 @@
         ]
     },
     {
-        "title": "CJT / CJAT",
+        "title": "CJ 인적성 : CJT / CJAT",
         "isRepeat": false,
         "timers": [
             {
@@ -765,7 +760,7 @@
             {
                 "comment": "수리",
                 "alarm": 0,
-                "end": 2100
+                "end": 1800
             },
             {
                 "comment": "도식이해",
@@ -785,33 +780,315 @@
         ]
     },
     {
-        "title": "SKCT",
+        "title": "SK 인적성 : SKCT",
         "isRepeat": false,
         "timers": [
             {
-                "comment": "상황판단",
+                "comment": "실행 및 인지역량 검사",
+                "alarm": 0,
+                "end": 6300
+            },
+            {
+                "comment": "휴식",
                 "alarm": 0,
                 "end": 1200
             },
             {
-                "comment": "수리",
+                "comment": "심층역량 검사",
+                "alarm": 0,
+                "end": 3600
+            }
+        ]
+    },
+    {
+        "title": "LG 인적성",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "언어 이해",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "언어 추리",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "수리력",
+                "alarm": 0,
+                "end": 2100
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 900
+            },
+            {
+                "comment": "도형 추리",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "도식적 추리",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 900
+            },
+            {
+                "comment": "인성 검사",
+                "alarm": 0,
+                "end": 3000
+            }
+        ]
+    },
+    {
+        "title": "KT 인적성",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "인성 검사",
+                "alarm": 0,
+                "end": 1500
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "지각정확력",
+                "alarm": 0,
+                "end": 360
+            },
+            {
+                "comment": "언어추리력",
+                "alarm": 0,
+                "end": 420
+            },
+            {
+                "comment": "판단력",
+                "alarm": 0,
+                "end": 720
+            },
+            {
+                "comment": "응용수리력",
+                "alarm": 0,
+                "end": 720
+            },
+            {
+                "comment": "단어연상력/수추리력",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "실제업무력/도식추리력",
+                "alarm": 0,
+                "end": 1080
+            }
+        ]
+    },
+    {
+        "title": "GS 인적성",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "언어이해",
                 "alarm": 0,
                 "end": 1800
             },
             {
-                "comment": "언어",
+                "comment": "언어추리",
                 "alarm": 0,
-                "end": 1200
+                "end": 2100
             },
             {
-                "comment": "직무",
+                "comment": "수리자료해석",
                 "alarm": 0,
-                "end": 1600
+                "end": 2100
             },
             {
-                "comment": "인성",
+                "comment": "공간지각",
+                "alarm": 0,
+                "end": 1800
+            }
+        ]
+    },
+    {
+        "title": "농협은행 NCS",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "인·적성 평가",
                 "alarm": 0,
                 "end": 2700
+            },
+            {
+                "comment": "휴식",
+                "alarm": 0,
+                "end": 900
+            },
+            {
+                "comment": "직무능력/상식 평가",
+                "alarm": 0,
+                "end": 4800
+            }
+        ]
+    },
+    {
+        "title": "8 뽀모도로 공부(500분)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "3세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "3세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "4세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "4세트 : 휴식",
+                "alarm": 0,
+                "end": 2400
+            },
+            {
+                "comment": "5세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "5세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "6세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "6세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "7세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "7세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "8세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            }
+        ]
+    },
+    {
+        "title": "4 뽀모도로 공부(240분)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "3세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "3세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "4세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "4세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            }
+        ]
+    },
+    {
+        "title": "2 뽀모도로 공부(120분)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1세트 : 휴식",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2세트 : 공부",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2세트 : 휴식",
+                "alarm": 0,
+                "end": 600
             }
         ]
     }

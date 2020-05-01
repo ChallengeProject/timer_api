@@ -35,5 +35,158 @@
                 "end": 30
             }
         ]
+    },
+    {
+        "title": "8 Pomodoro Study(500min)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "3Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "3Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "4Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "4Set : Rest",
+                "alarm": 0,
+                "end": 2400
+            },
+            {
+                "comment": "5Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "5Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "6Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "6Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "7Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "7Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "8Set : Study",
+                "alarm": 0,
+                "end": 3000
+            }
+        ]
+    },
+    {
+        "title": "4 Pomodoro Study(240min)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "3Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "3Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "4Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "4Set : Rest",
+                "alarm": 0,
+                "end": 600
+            }
+        ]
+    },
+    {
+        "title": "2 Pomodoro Study(120min)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2Set : Rest",
+                "alarm": 0,
+                "end": 600
+            }
+        ]
     }
 ]
