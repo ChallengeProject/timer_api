@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Stretching 30s",
+        "isRepeat": true,
+        "timers": [
+            {
+                "comment": "Change posture",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "(Left) Stretching",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "Change posture",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "(Right) Stretching",
+                "alarm": 0,
+                "end": 30
+            }
+        ]
+    },
+    {
+        "title": "2 Pomodoro Study(120min)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "1Set : Rest",
+                "alarm": 0,
+                "end": 600
+            },
+            {
+                "comment": "2Set : Study",
+                "alarm": 0,
+                "end": 3000
+            },
+            {
+                "comment": "2Set : Rest",
+                "alarm": 0,
+                "end": 600
+            }
+        ]
+    }
+]
