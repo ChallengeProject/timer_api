@@ -1,16 +1,5 @@
 [
     {
-        "title": "물마시기",
-        "isRepeat": true,
-        "timers": [
-            {
-                "comment": "물 마시기!",
-                "alarm": 0,
-                "end": 900
-            }
-        ]
-    },
-    {
         "title": "스트레칭 30초",
         "isRepeat": true,
         "timers": [
@@ -1089,6 +1078,169 @@
                 "comment": "2세트 : 휴식",
                 "alarm": 0,
                 "end": 600
+            }
+        ]
+    },
+    {
+        "title": "타바타 운동(20초-10초)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "1세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "2세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "2세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "3세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "3세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "4세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "4세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "5세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "5세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "6세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "6세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "7세트 : 운동",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "7세트 : 휴식",
+                "alarm": 0,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "title": "타바타 운동(30초-15초)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "1세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "2세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "2세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "3세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "3세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "4세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "4세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "5세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "5세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "6세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "6세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "7세트 : 운동",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "7세트 : 휴식",
+                "alarm": 0,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "title": "건강습관: 물 한잔",
+        "isRepeat": true,
+        "timers": [
+            {
+                "comment": "물 한 잔 마시기",
+                "alarm": 0,
+                "end": 7200
             }
         ]
     }

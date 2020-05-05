@@ -1,16 +1,5 @@
 [
     {
-        "title": "Drink Water",
-        "isRepeat": true,
-        "timers": [
-            {
-                "comment": "Drink!",
-                "alarm": 0,
-                "end": 900
-            }
-        ]
-    },
-    {
         "title": "Stretching 30s",
         "isRepeat": true,
         "timers": [
@@ -186,6 +175,169 @@
                 "comment": "2Set : Rest",
                 "alarm": 0,
                 "end": 600
+            }
+        ]
+    },
+    {
+        "title": "TABATA Exercise(20s-10s)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "1Set : Rest",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "2Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "2Set : Rest",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "3Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "3Set : Rest",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "4Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "4Set : Rest",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "5Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "5Set : Rest",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "6Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "6Set : Rest",
+                "alarm": 0,
+                "end": 10
+            },
+            {
+                "comment": "7Set : Excercise",
+                "alarm": 0,
+                "end": 20
+            },
+            {
+                "comment": "7Set : Rest",
+                "alarm": 0,
+                "end": 10
+            }
+        ]
+    },
+    {
+        "title": "TABATA Exercise(30s-15s)",
+        "isRepeat": false,
+        "timers": [
+            {
+                "comment": "1Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "1Set : Rest",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "2Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "2Set : Rest",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "3Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "3Set : Rest",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "4Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "4Set : Rest",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "5Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "5Set : Rest",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "6Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "6Set : Rest",
+                "alarm": 0,
+                "end": 15
+            },
+            {
+                "comment": "7Set : Excercise",
+                "alarm": 0,
+                "end": 30
+            },
+            {
+                "comment": "7Set : Rest",
+                "alarm": 0,
+                "end": 15
+            }
+        ]
+    },
+    {
+        "title": "Health Habit: a Glass of Water",
+        "isRepeat": true,
+        "timers": [
+            {
+                "comment": "Drinking a Glass of Water",
+                "alarm": 0,
+                "end": 7200
             }
         ]
     }
