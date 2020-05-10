@@ -402,37 +402,6 @@
         ]
     },
     {
-        "title": "경찰 공무원 시험",
-        "isRepeat": false,
-        "timers": [
-            {
-                "comment": "첫 번째 시험",
-                "alarm": 0,
-                "end": 1200
-            },
-            {
-                "comment": "두 번째 시험",
-                "alarm": 0,
-                "end": 1200
-            },
-            {
-                "comment": "세 번째 시험",
-                "alarm": 0,
-                "end": 1200
-            },
-            {
-                "comment": "네 번째 시험",
-                "alarm": 0,
-                "end": 1200
-            },
-            {
-                "comment": "다섯 번째 시험",
-                "alarm": 0,
-                "end": 1200
-            }
-        ]
-    },
-    {
         "title": "9급 공무원 시험",
         "isRepeat": false,
         "timers": [
@@ -842,7 +811,7 @@
             {
                 "comment": "인성 검사",
                 "alarm": 0,
-                "end": 1500
+                "end": 3000
             },
             {
                 "comment": "휴식",
@@ -1154,6 +1123,11 @@
                 "comment": "7세트 : 휴식",
                 "alarm": 0,
                 "end": 10
+            },
+            {
+                "comment": "8세트 : 운동",
+                "alarm": 0,
+                "end": 20
             }
         ]
     },
@@ -1230,6 +1204,11 @@
                 "comment": "7세트 : 휴식",
                 "alarm": 0,
                 "end": 15
+            },
+            {
+                "comment": "8세트 : 운동",
+                "alarm": 0,
+                "end": 30
             }
         ]
     },

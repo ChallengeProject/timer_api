@@ -251,6 +251,11 @@
                 "comment": "7Set : Rest",
                 "alarm": 0,
                 "end": 10
+            },
+            {
+                "comment": "8Set : Excercise",
+                "alarm": 0,
+                "end": 20
             }
         ]
     },
@@ -327,6 +332,11 @@
                 "comment": "7Set : Rest",
                 "alarm": 0,
                 "end": 15
+            },
+            {
+                "comment": "8Set : Excercise",
+                "alarm": 0,
+                "end": 30
             }
         ]
     },
