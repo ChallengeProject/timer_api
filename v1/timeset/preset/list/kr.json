@@ -773,9 +773,24 @@
         "isRepeat": false,
         "timers": [
             {
-                "comment": "실행 및 인지역량 검사",
+                "comment": "실행역량-상황판단능력",
                 "alarm": 0,
-                "end": 6300
+                "end": 1200
+            },
+            {
+                "comment": "인지역량-수리능력",
+                "alarm": 0,
+                "end": 1800
+            },
+            {
+                "comment": "인지역량-언어능력",
+                "alarm": 0,
+                "end": 1200
+            },
+            {
+                "comment": "인지역량-직무능력",
+                "alarm": 0,
+                "end": 1500
             },
             {
                 "comment": "휴식",
@@ -783,7 +798,7 @@
                 "end": 1200
             },
             {
-                "comment": "심층역량 검사",
+                "comment": "심층역량-인성",
                 "alarm": 0,
                 "end": 3600
             }
